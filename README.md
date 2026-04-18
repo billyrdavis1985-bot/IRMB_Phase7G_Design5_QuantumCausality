@@ -11,7 +11,7 @@
 [![IBM Quantum](https://img.shields.io/badge/IBM_Quantum-ibm__fez_156q-052FAD?logo=ibm&logoColor=white)](https://quantum.ibm.com/)
 [![Azure Quantum](https://img.shields.io/badge/Azure_Quantum-Quantinuum_H2-0078D4?logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/en-us/products/quantum)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/billyrdavis1985-bot/IRMB_Phase7G_Design5_QuantumCausality/blob/main/IRMB_Phase7G_Design5_QuantumCausality.ipynb)
-**Researcher:** Billy R. Davis Jr. | Independent  
+**Researcher:** Billy R. Davis| Independent  
 **Program:** Infinite Resilience Matrix Bridge (IRMB)  
 **Location:** Lenoir, North Carolina  
 **Date:** April 18, 2026  
