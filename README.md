@@ -2,12 +2,12 @@
 
 ## Causal Test of Quantum-Modulated LLM Council Coordination
 
-[![Status](https://img.shields.io/badge/Status-Complete-brightgreen)](https://github.com/billyrdavis1985-bot)
-[![Outcome](https://img.shields.io/badge/Outcome-Reversal-red)](https://github.com/billyrdavis1985-bot)
-[![Pre-Registered](https://img.shields.io/badge/Pre--Registered-V2-blue)](https://github.com/billyrdavis1985-bot)
-[![Hardware](https://img.shields.io/badge/QPU-IBM_ibm__fez_156q-orange)](https://github.com/billyrdavis1985-bot)
+[![Status](https://img.shields.io/badge/Status-Complete-brightgreen)](https://github.com/billyrdavis1985-bot/IRMB_Phase7G_Design5_QuantumCausality)
+[![Outcome](https://img.shields.io/badge/Outcome-Reversal-red)](https://github.com/billyrdavis1985-bot/IRMB_Phase7G_Design5_QuantumCausality)
+[![Pre-Registered](https://img.shields.io/badge/Pre--Registered-V2-blue)](https://github.com/billyrdavis1985-bot/IRMB_Phase7G_Design5_QuantumCausality)
+[![Hardware](https://img.shields.io/badge/QPU-IBM_ibm__fez_156q-orange)](https://github.com/billyrdavis1985-bot/IRMB_Phase7G_Design5_QuantumCausality)
 [![Dataset](https://img.shields.io/badge/Dataset-Frontier--400-purple)](https://github.com/billyrdavis1985-bot/IRMB_Design5_Dataset_MultiAgent_Build)
-[![Council](https://img.shields.io/badge/Council-8_Models-teal)](https://github.com/billyrdavis1985-bot)
+[![Council](https://img.shields.io/badge/Council-8_Models-teal)](https://github.com/billyrdavis1985-bot/IRMB_Phase7G_Design5_QuantumCausality)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/billyrdavis1985-bot/IRMB_Phase7G_Design5_QuantumCausality/blob/main/IRMB_Phase7G_Design5_QuantumCausality.ipynb)
 **Researcher:** Billy R. Davis Jr. | Independent  
 **Program:** Infinite Resilience Matrix Bridge (IRMB)  
