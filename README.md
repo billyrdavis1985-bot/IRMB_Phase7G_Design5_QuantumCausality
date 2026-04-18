@@ -2,13 +2,14 @@
 
 ## Causal Test of Quantum-Modulated LLM Council Coordination
 
-[![Status](https://img.shields.io/badge/Status-Complete-brightgreen)](https://github.com/billyrdavis1985-bot/IRMB_Phase7G_Design5_QuantumCausality)
-[![Outcome](https://img.shields.io/badge/Outcome-Reversal-red)](https://github.com/billyrdavis1985-bot/IRMB_Phase7G_Design5_QuantumCausality)
-[![Pre-Registered](https://img.shields.io/badge/Pre--Registered-V2-blue)](https://github.com/billyrdavis1985-bot/IRMB_Phase7G_Design5_QuantumCausality)
+[![Status](https://img.shields.io/badge/Status-Complete-brightgreen)](https://github.com/billyrdavis1985-bot/IRMB_Phase7G_Design5_QuantumCausality#irmb-program-context)
+[![Outcome](https://img.shields.io/badge/Outcome-Reversal-red)](https://github.com/billyrdavis1985-bot/IRMB_Phase7G_Design5_QuantumCausality#key-results)
+[![Pre-Registered](https://img.shields.io/badge/Pre--Registered-V2-blue)](https://github.com/billyrdavis1985-bot/IRMB_Phase7G_Design5_QuantumCausality#pre-registration)
+[![Hardware](https://img.shields.io/badge/QPU-IBM_ibm__fez_156q-orange)](https://github.com/billyrdavis1985-bot/IRMB_Phase7G_Design5_QuantumCausality#hardware--ibm-ibm_fez)
+[![Dataset](https://img.shields.io/badge/Dataset-Frontier--400-purple)](https://github.com/billyrdavis1985-bot/IRMB_Design5_Dataset_MultiAgent_Build)
+[![Council](https://img.shields.io/badge/Council-8_Models-teal)](https://github.com/billyrdavis1985-bot/IRMB_Phase7G_Design5_QuantumCausality#council-architecture)
 [![IBM Quantum](https://img.shields.io/badge/IBM_Quantum-ibm__fez_156q-052FAD?logo=ibm&logoColor=white)](https://quantum.ibm.com/)
 [![Azure Quantum](https://img.shields.io/badge/Azure_Quantum-Quantinuum_H2-0078D4?logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/en-us/products/quantum)
-[![Dataset](https://img.shields.io/badge/Dataset-Frontier--400-purple)](https://github.com/billyrdavis1985-bot/IRMB_Design5_Dataset_MultiAgent_Build)
-[![Council](https://img.shields.io/badge/Council-8_Models-teal)](https://github.com/billyrdavis1985-bot/IRMB_Phase7G_Design5_QuantumCausality)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/billyrdavis1985-bot/IRMB_Phase7G_Design5_QuantumCausality/blob/main/IRMB_Phase7G_Design5_QuantumCausality.ipynb)
 **Researcher:** Billy R. Davis Jr. | Independent  
 **Program:** Infinite Resilience Matrix Bridge (IRMB)  
