@@ -1,5 +1,6 @@
 # IRMB Phase 7G Design 5 — QuantumCausality
-<img width="1536" height="1024" alt="ChatGPT Image Apr 18, 2026, 03_58_59 PM" src="https://github.com/user-attachments/assets/71fdfd9e-0fa8-436e-93e0-49859f85d14e" />
+<img width="1024" height="1536" alt="ChatGPT Image Apr 18, 2026, 04_12_02 PM" src="https://github.com/user-attachments/assets/94184898-4380-4fa2-bc7a-04e2cbe52216" />
+
 
 ## Causal Test of Quantum-Modulated LLM Council Coordination
 
