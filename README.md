@@ -8,7 +8,7 @@
 [![Hardware](https://img.shields.io/badge/QPU-IBM_ibm__fez_156q-orange)](https://github.com/billyrdavis1985-bot)
 [![Dataset](https://img.shields.io/badge/Dataset-Frontier--400-purple)](https://github.com/billyrdavis1985-bot/IRMB_Design5_Dataset_MultiAgent_Build)
 [![Council](https://img.shields.io/badge/Council-8_Models-teal)](https://github.com/billyrdavis1985-bot)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/billyrdavis1985-bot/IRMB_Phase7G_Design5_QuantumCausality/blob/main/IRMB_Phase7G_Design5_QuantumCausality.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/billyrdavis1985-bot/blob/main/IRMB_Phase7G_Design5_QuantumCausality.ipynb)
 
 **Researcher:** Billy R. Davis Jr. | Independent  
 **Program:** Infinite Resilience Matrix Bridge (IRMB)  
