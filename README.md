@@ -1,5 +1,5 @@
 # IRMB Phase 7G Design 5 — QuantumCausality
-<img width="1536" height="1024" alt="ChatGPT Image Apr 18, 2026, 03_58_59 PM" src="https://github.com/user-attachments/assets/87163c29-651e-4ba7-b5e7-4c99fa4aaa82" />
+<img width="2816" height="1536" alt="Gemini_Generated_Image_p886uzp886uzp886" src="https://github.com/user-attachments/assets/b1267cdb-26ed-4ab1-ac91-c28c5f88eb51" />
 
 
 
